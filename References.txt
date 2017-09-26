@@ -1,0 +1,11 @@
+1) https://classroom.udacity.com/nanodegrees/nd002/parts/0021345407
+
+2) https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub?embedded=true
+
+3) https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
+
+4) https://review.udacity.com/#!/rubrics/26/view
+
+5) https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58af99ac_projecttemplate/projecttemplate.rmd
+
+6) https://github.com/dhdheeraj/p4-Exploratory-Data-Analysis/blob/master/EDA_Wine.rmd#talk-about-some-of-the-relationships-you-observed-in-this-part-of-the-
